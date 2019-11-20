@@ -1,0 +1,9 @@
+# Normalize line endings
+# between Windows, Mac and Linux
+* text=auto
+
+# Images
+*.gif   binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
